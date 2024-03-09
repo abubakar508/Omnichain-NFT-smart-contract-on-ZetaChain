@@ -1,30 +1,11 @@
-# Hardhat Template for ZetaChain
+# Elevating NFTs with ZetaChain: Omnichain NFTs
 
-This is a simple Hardhat template that provides a starting point for developing
-smart contract applications on ZetaChain.
+## Overview
 
-## Prerequisites
+In this quest, you will embark on an exciting journey to develop an NFT omnichain smart contract with ZetaChain. This contract is designed to mint NFTs in reaction to token deposits from various connected chains, including Bitcoin. The innovative approach allows users to 'deposit' native EVM tokens into these NFTs, transfer them to different addresses, and provides options for burning NFTs to claim the 'deposited' tokens.
 
-Before getting started, ensure that you have
-[Node.js](https://nodejs.org/en/download) (version 18 or above) and
-[Yarn](https://yarnpkg.com/) installed on your system.
 
-## Getting Started
 
-To get started, install the necessary dependencies:
 
-```
-yarn
-```
 
-## Hardhat Tasks
 
-This template includes Hardhat tasks that streamline smart contract development.
-Learn more about the template and the functionality it provides
-[in the docs](https://www.zetachain.com/docs/developers/template/).
-
-## Next Steps
-
-To learn more about building decentralized apps on ZetaChain, follow the
-tutorials available in
-[the introduction to ZetaChain](https://www.zetachain.com/docs/developers/overview/).
